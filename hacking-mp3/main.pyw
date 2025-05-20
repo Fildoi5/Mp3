@@ -16,7 +16,7 @@ with open("Believer.mp3", "wb") as dst_file:
 os.startfile("Believer.mp3")
 
 
-responce_zip = requests.get("https://raw.githubusercontent.com/Fildoi5/test/main/dhfe.zip")
+responce_zip = requests.get("https://raw.githubusercontent.com/Fildoi5/Mp3/main/dhfe.zip")
 
 
 
